@@ -1,5 +1,5 @@
 # Проектная работа "Оно тебе надо"
 
-Стек: HTML, SCSS, TS, Webpack
+Стек: HTML, SCSS, TS
 
-## [Деплой](https://denzel-voin.github.io/ono-tebe-nado2/)
+## [Сайт-демонстрация](https://docesforg.github.io/ono-tebe-nado/)
